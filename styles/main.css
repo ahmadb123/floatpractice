@@ -5,8 +5,8 @@ html{
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    max-width: 1000%;
-    font-size: 100%;
+    max-width: 1000px;
+    width: 100%;
     background-color: white;
     width: 100px;
     border: 1px solid black;
@@ -32,7 +32,7 @@ div{
 }
 
 img{
-    max-width: 400%;
+   max-width: 400px;
     max-height: 300%;
     width: 100%;
     float: left;
